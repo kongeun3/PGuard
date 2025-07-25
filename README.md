@@ -1,1 +1,2 @@
-# P-Guard: Prompt-based Automated Opening Guard System
+# P-Guard
+Prompt-based Automated Opening Guard System
